@@ -18,3 +18,9 @@ O projeto tem o objetivo de fazer a operação automatizada de um braço robóti
 3. *Fechamento e Abertura da Garra:* Responsável por abrir e fechar, garantindo a captura do objeto
 
 *O código usa a versão 2.0.0 do Pybricks*
+
+Garra Robótica em funcionamento automático: https://www.youtube.com/shorts/XGGZ5VD2tHg
+Garra robótica em funcionamento manual: https://youtu.be/e4TwWTJRf7c
+Garra puxando o próprio cabo: https://youtube.com/shorts/ho3MnYBDQns?feature=share
+
+
